@@ -164,28 +164,61 @@
 
 
 
-.footer .footer-links ul {
-    padding-left: 0;
-  }
+/* Pour la section dark-background du footer */
+.footer.dark-background {
+  background-color: #1e1e1e;
+  color: #fff;
+  padding: 60px 0 20px;
+  font-size: 16px;
+}
 
-  .footer .footer-links ul li {
-    list-style: none;
-    text-align: center;
-    margin-bottom: 10px;
-  }
+/* Titre orange */
+.orange-title {
+  color: #ff8000;
+  font-weight: bold;
+}
 
-  .footer .footer-links ul li a {
-    color: #fff;
-    text-decoration: none;
-  }
+/* Liens utiles stylisés */
+.footer-links li {
+  margin: 10px 0;
+}
 
-  .footer .footer-links ul li a:hover {
-    text-decoration: underline;
-  }
+.footer-links a {
+  font-size: 18px;
+  color: #000;
+  font-weight: 500;
+  text-decoration: none;
+  transition: all 0.3s ease-in-out;
+}
 
-  .footer-contact {
-    text-align: right;
-  }
+.footer-links a:hover {
+  color: #ff8000;
+  transform: scale(1.05);
+  text-decoration: underline;
+}
+
+/* Ajustement pour les icônes réseaux sociaux */
+.social-links a {
+  color: #fff;
+  font-size: 20px;
+  margin-right: 15px;
+  transition: color 0.3s ease;
+}
+
+.social-links a:hover {
+  color: #ff8000;
+}
+
+/* Nom du site */
+.sitename {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+
+
+
+
 
   @media (max-width: 992px) {
     .footer-contact {
