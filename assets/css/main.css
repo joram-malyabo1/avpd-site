@@ -163,6 +163,22 @@
 
 
 
+.card-title {
+    font-weight: bold;
+    font-size: 1.25rem;
+  }
+
+  .card-date {
+    font-weight: bold;
+    color: rgb(224, 85, 4);
+  }
+
+  .card-text.justify {
+    text-align: justify;
+  }
+
+
+
 /* Pour la section dark-background du footer */
 .footer.dark-background {
   background-color: #1e1e1e;
