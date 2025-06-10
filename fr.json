@@ -1,0 +1,146 @@
+{
+  "site_title": "a v p d",
+  "nav": {
+    "home": "Acceuil",
+    "about": "A Propos de Nous",
+    "team": "Equipe",
+    "gallery": "Galerie",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "hero": {
+    "welcome": "Bienvenu sur notre site",
+    "description": "Offrir, c’est semer l’espoir. Grâce à votre don, nous pouvons continuer à agir, à construire, à aider. Ensemble, redonnons le sourire à ceux qui en ont le plus besoin",
+    "start": "Commencer"
+  },
+  "about": {
+    "title": "À propos de Nous",
+    "learn_more": "En savoir plus sur nous",
+    "history_title": "Bref Historique",
+    "history_text": "Actions de Volontaires pour la Paix et le Développement, AVPD en sigle, est une Organisation non gouvernementale née en 2018 à Nyiragongo en Republique Demoratique du Congo, à l’initiative d’un groupe des jeunes et femmes déterminés à repondre au consequenes des conflits armés, de la pauvrété et de l’inclusion soiale dans leurs communauté. Face à cette montée des violences, au désespoir des jeunes sans repères, et au inegalités persistantes, nous avons decidé d’unir leurs forces pour batir une plateforme d’ation non-violente, de sensibilisation et de développement. Dépuis sa création , AVPD mène des projets de sensibilisation à la paix, de formation des jeunes et femmes à la gestion des AGR, des reinsertion des deplacés internes, et de mobilisation communautaire pour la cohésion sociale et le développement durable. L’organisation travaille en partenariat avec des strutures loales et souhaite travailler en partenariat avec les strutures internationnales pour atteindre les couhes les plus vulnerables"
+  },
+  "cards": {
+    "vision": "Vision",
+    "vision_text": "La vision de notre organisation est telle que, par des actions concrètes, AVPD-RDC participe à la reconstruction de la paix dans un Congo où les citoyens vivent dans des conditions favorisant le développement communautaire intégral, à leur croissance économique durable.",
+    "mission": "Mission",
+    "mission_text": "La mission d'AVPD-RDC est d'assurer une assistance socio-vitale aux personnes vulnérables, renforcer la collaboration entre les membres de la communauté, les chefs locaux ainsi que les agents sanitaires à travers les travaux communautaires (salongo), les débats et dialogues constructifs ainsi que la promotion du droit à la santé.",
+    "objectives": "Objectifs",
+    "objectives_text": "L'objectif global poursuivi par l'AVPD-RDC est de contribuer à la promotion et à la protection des droits humains, de la paix et des facteurs de croissance économique pour un développement communautaire durable.",
+    "values": "Nos Valeurs",
+    "values_list": [
+      "La dignité",
+      "L'empathie",
+      "L'équité",
+      "L'affinité",
+      "La redevabilité",
+      "La compassion"
+    ],
+    "zone": "Zone d’intervention",
+    "zone_text": "Province du Nord-Kivu, notamment dans la ville de Goma et dans le territoire de Nyiragongo et ses zones environnantes."
+  },
+  "domains": {
+    "title": "Domaines d’intervention",
+    "list": [
+      " La promotion et la protection des droits humains",
+      "L'autonomisation des personnes vulnérables dans un contexte d'intégration, de respect du genre et de l'environnement",
+      "Encadrement et coaching des femmes et jeunes entrepreneurs",
+      "Le renforcement de capacités en mutualité santé",
+      "L'éducation citoyenne à la paix et à la bonne gouvernance",
+      "Encadrement et coaching des femmes et jeunes entrepreneurs"
+    ]
+  },
+  "team": {
+    "title": "Notre Équipe",
+    "subtitle": "Rencontrez les membres fondateurs et les responsables clés de notre organisation."
+  },
+  "gallery": {
+    "title": "Galerie",
+    "subtitle": "Découvrez nos Actions sur le Terrain",
+    "items": [
+      {
+        "title": "Distribution alimentaire",
+        "desc": "Des enfants nourris grâce à vos dons"
+      },
+      {
+        "title": "Repas équilibrés",
+        "desc": "Des sourires retrouvés autour d’un repas chaud"
+      },
+      {
+        "title": "Formation à l’entrepreneuriat",
+        "desc": "Des mamans formées pour démarrer leur activité"
+      },
+      {
+        "title": "Ateliers pratiques",
+        "desc": "Accompagnement dans la création de micro-entreprises"
+      }
+    ]
+  },
+  "activities": {
+    "title": "Nos Activités",
+    "subtitle": "Découvrez nos Nouvelles",
+    "activity1": {
+      "title": "Activité 1 : Sensibilisation et suivi nutritionnel",
+      "date": "Date : Dimanche 25 mai 2025",
+      "desc": "Sensibilisation des parents sur la malnutrition dans le territoire de NYIRAGONGO dans les notabilités de KINOGO et BUHENE et Prise des mesures anthropométriques des enfants de moins de 5ans à l'autorisation de leur parents."
+    },
+    "activity2": {
+      "title": "Activité 2 : Actions nutritionnelles à Nyiragongo",
+      "date": "Date : 20 Mars 2025",
+      "desc": "Sensibilisation des parents sur la lutte contre la malnutrition chronique."
+    },
+    "activity3": {
+      "title": "Activité 3 : Formation à l’entrepreneuriat local",
+      "date": "Date : 20 Mars 2025",
+      "desc": "Cette formation a permis aux participants d’acquérir des compétences essentielles à la création et à la gestion d’une petite entreprise, avec un accent sur le développement économique local."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Besoin d'aide ? Contactez-nous",
+    "address": "Adresse",
+    "address_lines": [
+      "Nord-Kivu, Groupement de Munigi",
+      "Territoire de Nyiragongo",
+      "Village Ngangi 1"
+    ],
+    "call_us": "Appelle-nous",
+    "phone": "+243 973 311 563",
+    "email_us": "Envoyez-nous un courriel",
+    "email": "avpd2021@gmail.com",
+    "form": {
+      "name": "Nom",
+      "email": "E-mail",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer un message",
+      "loading": "Chargement",
+      "sent": "Votre message a été envoyé. Merci !"
+    }
+  },
+  "footer": {
+    "about": "Votre soutien est essentiel à la réussite de nos projets locaux. En donnant aujourd’hui, vous devenez acteur du changement dans votre propre communauté.",
+    "links": {
+      "home": "Accueil",
+      "about": "À propos de nous",
+      "team": "Équipe",
+      "gallery": "Galerie",
+      "news": "News",
+      "contact": "Contact"
+    },
+    "contact_title": "Contactez-nous",
+    "copyright": "© 2021 - 2025 AVPD — Tous droits réservés.",
+    "credits": "Développé avec ❤️ par Joram Malyabo"
+  },
+  "rapport": {
+    "title": "Rapport Chiffré",
+    "desc": "Quelques chiffres clés de nos activités récentes.",
+    "stat1": "Ménages visités",
+    "stat2": "Enfants malnutris recensés",
+    "stat3": "Enfants pris en charge"
+  },
+  "partners": {
+    "title": "Nos Partenaires",
+    "subtitle": "Nous remercions nos partenaires pour leur soutien continu.",
+    "desc":"Ils nous font confiance et nous accompagnent dans nos missions"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "site_title": "a v p d",
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "team": "Team",
+    "gallery": "Gallery",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "hero": {
+    "welcome": "Welcome to our site",
+    "description": "Giving is sowing hope. Thanks to your donation, we can continue to act, build, and help. Together, let's bring smiles back to those who need it most.",
+    "start": "Get Started"
+  },
+  "about": {
+    "title": "About Us",
+    "learn_more": "Learn more about us",
+    "history_title": "Brief History",
+    "history_text": "Actions de Volontaires pour la Paix et le Développement, AVPD for short, is a non-governmental organization founded in 2018 in Nyiragongo, Democratic Republic of Congo, by a group of young people and women determined to respond to the consequences of armed conflict, poverty, and social inclusion in their community. Faced with increasing violence, the despair of lost youth, and persistent inequalities, we decided to join forces to build a platform for non-violent action, awareness, and development. Since its creation, AVPD has carried out projects to promote peace, train young people and women in income-generating activities, reintegrate internally displaced persons, and mobilize communities for social cohesion and sustainable development. The organization works in partnership with local structures and wishes to work with international structures to reach the most vulnerable groups."
+  },
+  "cards": {
+    "vision": "Vision",
+    "vision_text": "The vision of our organization is that, through concrete actions, AVPD-RDC participates in the reconstruction of peace in a Congo where citizens live in conditions that promote integral community development and sustainable economic growth.",
+    "mission": "Mission",
+    "mission_text": "The mission of AVPD-RDC is to provide vital social assistance to vulnerable people, strengthen collaboration between community members, local leaders, and health workers through community work (salongo), constructive debates and dialogues, and the promotion of the right to health.",
+    "objectives": "Objectives",
+    "objectives_text": "The overall objective pursued by AVPD-RDC is to contribute to the promotion and protection of human rights, peace, and economic growth factors for sustainable community development.",
+    "values": "Our Values",
+    "values_list": [
+      "Dignity",
+      "Empathy",
+      "Equity",
+      "Affinity",
+      "Accountability",
+      "Compassion"
+    ],
+    "zone": "Area of Intervention",
+    "zone_text": "Province of North Kivu, especially in the city of Goma and the territory of Nyiragongo and surrounding areas."
+  },
+  "domains": {
+    "title": "Areas of Intervention",
+    "list": [
+      "Promotion and protection of human rights",
+      "Empowerment of vulnerable people in a context of integration, gender respect, and environment",
+      "Coaching and mentoring of women and young entrepreneurs",
+      "Capacity building in health mutuality",
+      "Civic education for peace and good governance",
+      "Coaching and mentoring of women and young entrepreneurs"
+    ]
+  },
+  "team": {
+    "title": "Our Team",
+    "subtitle": "Meet the founding members and key leaders of our organization."
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Discover our Actions in the Field",
+    "items": [
+      {
+        "title": "Food distribution",
+        "desc": "Children fed thanks to your donations"
+      },
+      {
+        "title": "Balanced meals",
+        "desc": "Smiles found again around a hot meal"
+      },
+      {
+        "title": "Entrepreneurship training",
+        "desc": "Mothers trained to start their business"
+      },
+      {
+        "title": "Practical workshops",
+        "desc": "Support in creating micro-enterprises"
+      }
+    ]
+  },
+  "activities": {
+    "title": "Our Activities",
+    "subtitle": "Discover our News",
+    "activity1": {
+      "title": "Activity 1: Awareness and nutritional monitoring",
+      "date": "Date: Sunday, May 25, 2025",
+      "desc": "Raising parents' awareness of malnutrition in the territory of NYIRAGONGO in the localities of KINOGO and BUHENE and taking anthropometric measurements of children under 5 years old with their parents' permission."
+    },
+    "activity2": {
+      "title": "Activity 2: Nutritional actions in Nyiragongo",
+      "date": "Date: March 20, 2025",
+      "desc": "Raising parents' awareness of the fight against chronic malnutrition."
+    },
+    "activity3": {
+      "title": "Activity 3: Local entrepreneurship training",
+      "date": "Date: March 20, 2025",
+      "desc": "This training enabled participants to acquire essential skills for creating and managing a small business, with a focus on local economic development."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Need help? Contact us",
+    "address": "Address",
+    "address_lines": [
+      "North Kivu, Munigi Group",
+      "Territory of Nyiragongo",
+      "Village Ngangi 1"
+    ],
+    "call_us": "Call us",
+    "phone": "+243 973 311 563",
+    "email_us": "Send us an email",
+    "email": "avpd2021@gmail.com",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "loading": "Loading",
+      "sent": "Your message has been sent. Thank you!",
+      "placeholder": {
+        "name": "Enter your name",
+        "email": "Enter your email",
+        "subject": "Enter the subject",
+        "message": "Type your message here"
+      }
+    }
+  },
+  "footer": {
+    "about": "Your support is essential to the success of our local projects. By giving today, you become an agent of change in your own community.",
+    "links": {
+      "home": "Home",
+      "about": "About us",
+      "team": "Team",
+      "gallery": "Gallery",
+      "news": "News",
+      "contact": "Contact"
+    },
+    "contact_title": "Contact us",
+    "copyright": "© 2021 - 2025 AVPD — All rights reserved.",
+    "credits": "Developed with ❤️ by Joram Malyabo"
+  },
+  "rapport": {
+    "title": "Key Figures Report",
+    "desc": "Some key statistics from our recent activities.",
+    "stat1": "Households visited",
+    "stat2": "Malnourished children identified",
+    "stat3": "Children supported"
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "We thank our partners for their continued support.",
+    "desc": "They trust us and support us in our missions"
+  }
+}
