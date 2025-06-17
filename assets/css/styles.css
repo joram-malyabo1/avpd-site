@@ -1,0 +1,15 @@
+.logo img {
+    width: 50px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #000;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+    display: block;
+    background: #fff;
+}
+/* language buttton */
+.lang{
+    margin-left: 500px;
+}
+
