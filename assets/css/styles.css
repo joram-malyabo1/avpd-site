@@ -9,7 +9,14 @@
     background: #fff;
 }
 /* language buttton */
-.lang{
-    margin-left: 500px;
-}
 
+/* Default: mobile */
+.lang {
+    margin-left: 200px;
+}
+/* Desktop: 992px and up */
+@media (min-width: 992px) {
+    .lang {
+        margin-left: 500px;
+    }
+}
